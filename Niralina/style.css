@@ -1,0 +1,25 @@
+.box{
+    position: relative;
+    width: 100%;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    width: 160px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffef;
+    color: #252525;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: Calibri;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.699);
+    text-decoration: none;
+    border: 1px solid black;
+    margin-top: 5%;
+}
